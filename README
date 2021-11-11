@@ -1,0 +1,15 @@
+# Customer Segmentation
+
+This repository holds some data and Notebook with a small customer segmentation exercise.
+
+While this was done as an exercise for a company, the name has been removed (though it isn't difficult to find out which company it is).
+
+The libraries required to run the Notebooks are:
+
+ - pandas
+ - numpy
+ - nltk
+ - sci-kit learn
+ - jupyter
+ - matplotlib
+ - seaborn
